@@ -26,6 +26,7 @@
 
     <modules>
         <module>agent-java</module>
+        <module>agent-spring</module>
     </modules>
 
     <repositories>
