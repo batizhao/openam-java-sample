@@ -27,6 +27,7 @@
     <modules>
         <module>agent-java</module>
         <module>agent-spring</module>
+        <module>idm-client</module>
     </modules>
 
     <repositories>
